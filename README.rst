@@ -1,12 +1,14 @@
 django-selectable
 ===================
 
+Forked to attempt to mash redis-completion in, also bootstrap3 and typeahead.js by default.
+
 Tools and widgets for using/creating auto-complete selection widgets using Django and jQuery UI.
 
 .. image::
-    https://secure.travis-ci.org/mlavin/django-selectable.png?branch=master
+    https://secure.travis-ci.org/bnrubin/django-selectable.png?branch=master
     :alt: Build Status
-        :target: https://secure.travis-ci.org/mlavin/django-selectable
+        :target: https://secure.travis-ci.org/bnrubin/django-selectable
 
 Features
 -----------------------------------
